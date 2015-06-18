@@ -472,12 +472,7 @@ bool				RemoveMember( const stringsurrogate & ssT, bool DeleteFlag) // FSA
 	void				SetKey( T*, string );
 //------------------------------------------------------------------------#
 
-/* 
-void   SetSortStyle(eSortStyle SS)
-{
-  m_SortStyle = SS;
-}
-*/
+ 
 //------------------------------------------------------------------------#
 
  
